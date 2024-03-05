@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1708941266 source:c:\users\student\desktop\lab2\main.c
+	"biblio.h"
+
+1708940185 c:\users\student\desktop\lab2\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1708941448 source:c:\users\student\desktop\lab2\biblio.c
+	"biblio.h"
+
